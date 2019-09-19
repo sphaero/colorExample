@@ -15,6 +15,9 @@ void ofApp::setup(){
     // initialise member variables to the centre of the screen
     mouseXPercent = 0.5f;
     mouseYPercent = 0.5f;
+
+    map<string, Poco::Net::IPAddress> ifs = getNetworkInterfaces();
+    
 }
 
 //--------------------------------------------------------------

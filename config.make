@@ -9,7 +9,7 @@
 #       (default) OF_ROOT = ../../.. 
 ################################################################################
 # OF_ROOT = ../../..
-
+OF_ROOT = ../openframeworks
 ################################################################################
 # PROJECT ROOT
 #   The location of the project - a starting place for searching for files
